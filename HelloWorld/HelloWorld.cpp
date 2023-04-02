@@ -2,7 +2,7 @@
 
 int main()
 {  
-    std::cout << "Ben bu isi basaracagim";
+    std::cout << "Oh shit here we again!";
 
 
     
