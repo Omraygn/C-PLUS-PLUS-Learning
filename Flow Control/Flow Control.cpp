@@ -3,7 +3,7 @@
 
 
 
-int main()
+/* int main()
 {
 	int a = 0;
 	int b = 0;
@@ -13,10 +13,18 @@ int main()
 	std::cin >> a;
 	std::cout << "Lutfen diger sayiyi girin" <<std::endl;
 	std::cin >> b;
-	std::cout <<"Sonuc" << a + b;
+	std::cout <<"Sonuc" << a + b;    */
+	
 
+int main() {
 	
+	int a = 0;
 	
+ 
+	std::cout << "Lutfen dogum yilinizi giriniz" << std::endl;
+	std::cin >> a;
+    std:: cout << 2023 - a << "Yasindasiniz";
+
 	
 
 
