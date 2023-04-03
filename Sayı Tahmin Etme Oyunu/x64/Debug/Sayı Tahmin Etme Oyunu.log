@@ -1,0 +1,4 @@
+﻿  Sayı Tahmin Etme Oyunu.cpp
+C:\Users\Ömer Aygün\source\repos\BTK\Sayı Tahmin Etme Oyunu\Sayı Tahmin Etme Oyunu.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ömer Aygün\source\repos\BTK\Sayı Tahmin Etme Oyunu\Sayı Tahmin Etme Oyunu.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sayı Tahmin Etme Oyunu.vcxproj -> C:\Users\Ömer Aygün\source\repos\BTK\x64\Debug\Sayı Tahmin Etme Oyunu.exe

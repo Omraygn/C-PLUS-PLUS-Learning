@@ -28,7 +28,7 @@
 	
 // Ýf - Else Kullanýmý
 
-// iki basamaklý toplama yapan uygulama
+// iki basamaklý sayý toplama yapan uygulama
 
 /* int main() {
 
