@@ -67,7 +67,7 @@ int main() {
 		}
 
 		else {
-			cout << "Oyun bitti teşekkürler" << endl;
+			cout << "Oyun bitti teşekkür ederiz..." << endl;
 			break;
 		}
 
