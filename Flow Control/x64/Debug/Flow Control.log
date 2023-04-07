@@ -1,2 +1,3 @@
 ﻿  Flow Control.cpp
-  Flow Control.vcxproj -> C:\Users\Ömer Aygün\source\repos\BTK\x64\Debug\Flow Control.exe
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Ömer Aygün\source\repos\BTK\x64\Debug\Flow Control.exe : fatal error LNK1120: 1 unresolved externals
